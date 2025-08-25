@@ -1,0 +1,26 @@
+[
+  {
+    "name": "3/4 Sit-Up",
+    "force": "çekme",
+    "level": "başlangıç",
+    "mechanic": "bileşik",
+    "equipment": "sadece vücut",
+    "primaryMuscles": [
+      "karın kasları"
+    ],
+    "secondaryMuscles": [],
+    "instructions": [
+      "Yere uzan ve ayaklarınızı sabitleyin. Bacaklarınız dizlere bükülmelidir.",
+      "Ellerinizi başınızın arkasına veya yanına yerleştirin. Sırtınızla başlayacaksınız. Bu sizin başlangıç ​​pozisyonunuz olacak.",
+      "Gövdenizi dizlerinize doğru yükseltmek için kalçalarınızı ve omurganızı esnetin.",
+      "Egzersizin en üstünde bir an duraklatın ve kaslarınızı sıkın.",
+      "Yavaşça başlangıç ​​pozisyonuna geri dönün.",
+      "Hareket boyunca boyun ve omurganızı nötr tutun."
+    ],
+    "category": "güç",
+    "images": [
+      "3_4_Sit-Up/0.jpg",
+      "3_4_Sit-Up/1.jpg"
+    ]
+  }
+]
